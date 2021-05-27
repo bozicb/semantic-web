@@ -1,6 +1,6 @@
 # TU Dublin Semantic Web Module
 
-(Module Descriptor)[https://drive.google.com/file/d/1VlnS-kbH59NmU22s9e0SgaoSJZIFlQmV/view]
+(https://drive.google.com/file/d/1VlnS-kbH59NmU22s9e0SgaoSJZIFlQmV/view)[Module Descriptor]
 
 ## Lecture Notes
 
