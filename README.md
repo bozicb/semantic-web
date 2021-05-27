@@ -23,3 +23,12 @@ module.
 ## Code
 
 ## Data
+
+## Literature
+
+- Pascal Hitzler, Markus Krötzsch, Sebastian Rudolph; 2010; Foundations of Semantic Web Technologies; Chapman & Hall.
+- Dean Allemang, James Hendler; 2008; Semantic Web for the Working Ontologist; Morgan Kaufmann.
+- John Hebeler, Matthew Fisher, Ryan Blace, Andrew Perez-Lopez, Mike Dean; 2009; Semantic Web Programming; Wiley.
+- Grigoris Antoniou, Paul Groth, Frank van Harmelen, Rinke Hoekstra; 2012; A Semantic Web Primer; MIT Press.
+- Jose Emilio Labra Gayo, et al.; 2017; Validating RDF data; Synthesis Lectures on Semantic Web: Theory and Technology.
+- Mayank Kejriwal, Craig Knoblock, Pedro Szekely; 2021; Knowledge Graphs: Fundamentals, Techniques, and Applications; MIT Press.
